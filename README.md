@@ -1,42 +1,22 @@
-# Olá, eu sou Nicolas 
+# Nicolas Moreira
 
-E você pode dar uma olhada no meu [Site.](https://nicolaspm.dev.br/)
+Desenvolvedor em Garopaba, SC. Construo sistemas com IA no fluxo de trabalho: CRM, automações, sites e painéis que rodam no dia a dia de negócios reais.
 
-- Estudante de Análise e Desenvolvimento de Sistemas, com a formação para o 1º semestre de 2024.
+Procuro vaga de desenvolvedor fullstack, 100% remoto.
 
-- Focado especialmente em liguagem Python(s2)
+## O que eu construo
 
-- Apaixonado por resolver problemas e encontrar soluções inovadoras!
+- **CRM local com WhatsApp:** funil de vendas, sincronização diária e fila de atendimento.
+- **Studio:** agente de conteúdo com esteira de pautas, crítico e publicação.
+- **Portus Web:** sites para pequenas empresas, com blog e SEO.
+- **Loja online (Nuvemshop + Cloudflare Workers):** configurador de persianas e fatura automática por e-mail.
 
-- Procurando uma oportunidade de trabalho para me desenvolver.
+Os estudos de caso estão no portfólio: [portfolio.nicolasmoreira.com](https://portfolio.nicolasmoreira.com)
 
-## Projetos 
+## Stack
 
-[Banco Simples em Python](https://github.com/Nicolaspm2/banco_python)
+Python · Flask · SQLite · Astro · JavaScript · PHP/MySQL · Cloudflare · n8n
 
-[Site GitHub Pages](https://github.com/Nicolaspm2/Nicolas_Moreira)
+## Contato
 
-[Jogo Snake em Python](https://github.com/Nicolaspm2/snake_python)
-
-[Automated_Backteste](https://github.com/Nicolaspm2/automated_backtest)
-
-## Avonts
-Sinta-se a vontade para me enviar mensagem em qualquer um dos canais abaixo.
-
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/nicolas-moreira-b533941a9/)
-
- [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/nicolas.moreira/)
-
- [![Github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)](https://github.com/Nicolaspm2)
-
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasmoreira742@gmail.com)
-
-
-## Conforme mais projetos forem surgindo irei postando por aqui, obrigado.
-
-
- ![python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)  ![ia](https://img.shields.io/badge/Inteligencia_Artificial-000?style=for-the-badge&logo=)
-
- ![jupyternotebook](https://img.shields.io/badge/Jupyter_Notebook-000?style=for-the-badge&logo=anaconda) ![mysql](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
-
- ![pycharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=PyCharm) ![java](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=JAVA)     
+[Site](https://nicolasmoreira.com) · [LinkedIn](https://www.linkedin.com/in/nicolas-moreira-b533941a9/) · [Instagram](https://www.instagram.com/nicolas.moreira/) · [nicolasmoreira742@gmail.com](mailto:nicolasmoreira742@gmail.com)
